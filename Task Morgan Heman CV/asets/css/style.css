@@ -1,0 +1,64 @@
+*{    
+    box-sizing: border-box;
+}
+.contain{
+    margin-left: 50px;        
+}
+h1{
+    margin-bottom: 5px;
+}
+.name{
+    font-size: 15px;    
+}
+.title .email{
+    margin-bottom: 20px;
+    margin-top: 50px;
+}
+.left p{
+    width: 200px;    
+}
+.left h2{
+    margin-top: 50px;
+    margin-bottom: 10px;
+    color: rgb(122, 122, 243);
+}
+.left .city{
+    margin-top: 10px;
+    
+}
+.title-4 h4{
+    color:  rgb(122, 122, 243);
+}
+.title-4 .city{
+    font-size: 20px;
+}
+img{
+    width: 150px;
+    height: 150px;
+    margin-left: 50px;
+}
+.right h2{
+    text-transform: uppercase;
+}
+.main{   
+  float: left;
+  width: 50%;
+  /* padding: 10px; */
+  height: 300px;
+}
+.main-2{    
+  
+}
+.right h2{
+    margin-top: 50px;
+    margin-bottom: 10px;
+    color: rgb(122, 122, 243);
+}
+.right .city{
+    margin-top: 10px;
+    
+}
+.right p{
+    display: inherit;  
+    max-width: max-content;    
+}
